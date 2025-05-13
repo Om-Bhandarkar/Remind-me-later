@@ -11,8 +11,6 @@ This Django REST API allows users to schedule reminders with a message, a schedu
   - Scheduled datetime
   - Reminder method (SMS or Email)
 - 📄 List all existing reminders
-- 🔍 Filter reminders by delivery method and date
-- 🔧 Easy to extend with more delivery options (e.g. Push, WhatsApp)
 
 ---
 
@@ -31,6 +29,10 @@ This Django REST API allows users to schedule reminders with a message, a schedu
   "method": "email"
 }
 ```
+![Screenshot (520)](https://github.com/user-attachments/assets/39a50d1e-5af6-4cc7-b0ce-21e812f39cb0)
+
+![Screenshot (521)](https://github.com/user-attachments/assets/c9fdc93c-1de4-4010-9eb1-3132a6bf4c48)
+
 
 
 
